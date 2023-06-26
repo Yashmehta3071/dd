@@ -1,0 +1,126 @@
+Year,Location,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980.0,South Janethaven,Y,Canola,1.0,913.34,Jeremy Mann
+1980.0,Jesushaven,Y,Canola,1.0,1022.55,Joel Brown
+1980.0,Lake Eric,No,Oats,0.0,1196.8,Connor Griffith
+1981.0,South Janethaven,Y,Canola,1.0,906.17,Jennifer Adams
+1981.0,Jesushaven,Y,Wheat,1.0,1735.82,Joel Brown
+1981.0,Lake Eric,N,Wheat,0.0,1497.96,Elizabeth Smith
+1982.0,South Janethaven,Y,Canola,1.0,917.47,Tina Lowe
+1982.0,Jesushaven,Y,Oats,1.0,,Joel Brown
+1982.0,Jesushaven,Y,Oats,1.0,1431.4,Joel Brown
+1982.0,Lake Eric,N,Oats,0.0,1195.77,Robert Jones
+1983.0,South Janethaven,Y,Canola,1.0,915.49,Zachary Martinez
+1983.0,Jesushaven,Y,Oats,1.0,1421.54,Daniel Orr
+1983.0,Lake Eric,N,Oats,0.0,1193.72,Robert Jones
+1984.0,South Janethaven,Y,Wheat,1.0,1611.36,Zachary Martinez
+1984.0,Jesushaven,Y,Wheat,1.0,1716.79,Heather Sims
+1984.0,Lake Eric,N,Canola,0.0,794.13,Robert Jones
+1985.0,Jesushaven,Y,Wheat,1.0,1732.13,Amber Young
+1985.0,Lake Eric,N,Wheat,0.0,1493.45,Daniel Summers
+1985.0,South Janethaven,Y,Wheat,1.0,1616.42,Zachary Martinez
+1986.0,Lake Eric,N,Wheat,0.0,1495.61,Daniel Summers
+1986.0,South Janethaven,Y,Oats,1.0,1324.48,Joshua Garner
+1986.0,Jesushaven,Y,Wheat,1.0,1734.79,Holly Kline DDS
+1987.0,Lake Eric,N,Canola,0.0,794.66,Daniel Summers
+1987.0,South Janethaven,Y,Oats,,1323.2,James Johnson
+1987.0,South Janethaven,Y,Oats,1.0,1323.2,James Johnson
+1987.0,Jesushaven,Y,Canola,1.0,1023.71,James Moreno
+1988.0,Lake Eric,N,Oats,0.0,1196.33,Matthew Chen
+1988.0,South Janethaven,Y,Wheat,1.0,1623.93,James Johnson
+1988.0,Jesushaven,Y,Oats,0.0,1442.87,Veronica Ayala
+1989.0,Lake Eric,N,Oats,0.0,1194.01,Matthew Chen
+1989.0,South Janethaven,Y,Wheat,0.0,1642.56,James Johnson
+1989.0,Jesushaven,Y,Canola,0.0,1038.43,Veronica Ayala
+1990.0,Lake Eric,N,Oats,0.0,1191.48,Matthew Chen
+1990.0,Jesushaven,Y,Canola,0.0,1035.61,Andrea Young
+1990.0,South Janethaven,Y,Canola,0.0,940.42,Olivia Jones
+1991.0,Jesushaven,Y,Wheat,0.0,1749.49,Andrea Young
+1991.0,Lake Eric,N,Wheat,0.0,1493.72,Jason Williams
+1991.0,South Janethaven,Y,Canola,0.0,940.28,Robert Gregory
+1992.0,Jesushaven,Y,Canola,1.0,1034.09,Andrea Young
+1992.0,Lake Eric,N,Wheat,0.0,1492.87,Nathan Hill
+1992.0,South Janethaven,Y,Wheat,1.0,1630.24,Robert Gregory
+1993.0,Jesushaven,Y,Oats,0.0,1448.47,Brooke Foster
+1993.0,Lake Eric,N,Oats,0.0,1193.45,Nathan Hill
+1993.0,South Janethaven,Y,Oats,0.0,1334.1,Ann Gillespie
+1994.0,Jesushaven,Y,Canola,0.0,1052.3,Brooke Foster
+1994.0,Lake Eric,N,Canola,0.0,792.63,Nathan Hill
+1994.0,South Janethaven,Y,Wheat,0.0,1641.37,Michael Park
+1995.0,Jesushaven,Y,Wheat,0.0,1737.03,Leah Medina
+1995.0,Lake Eric,N,Canola,0.0,788.49,Nathan Hill
+1995.0,South Janethaven,Y,Canola,0.0,944.07,Michael Park
+1996.0,South Janethaven,Y,Oats,0.0,1341.09,Michael Park
+1996.0,Jesushaven,Y,Oats,1.0,1442.57,Sandra Carr
+1996.0,Lake Eric,N,Canola,0.0,787.73,Fernando Smith
+1997.0,South Janethaven,Y,Oats,0.0,1357.49,Dr. Jacob Thomas MD
+1997.0,Jesushaven,Y,Wheat,0.0,1756.38,Allison Johnson
+1997.0,Lake Eric,N,Wheat,0.0,1491.95,Fernando Smith
+1998.0,South Janethaven,Y,Canola,0.0,973.28,Dr. Jacob Thomas MD
+1998.0,Jesushaven,Y,Wheat,0.0,1753.86,Michael Carlson
+1998.0,Lake Eric,N,Oats,0.0,1189.5,Fernando Smith
+1999.0,Jesushaven,Y,Oats,0.0,1444.54,Michael Carlson
+1999.0,Lake Eric,N,Oats,1.0,1185.04,Derrick Wells
+1999.0,South Janethaven,Y,Wheat,0.0,1654.82,Justin Solomon
+2000.0,Lake Eric,N,Wheat,0.0,1487.99,David Sullivan
+2000.0,Jesushaven,Y,Oats,0.0,1450.11,Michael Carlson
+2000.0,South Janethaven,Y,Wheat,0.0,1658.01,Scott Peterson
+2001.0,Lake Eric,N,Oats,0.0,1188.94,David Sullivan
+2001.0,Jesushaven,Y,Canola,0.0,1049.72,Michael Carlson
+2001.0,South Janethaven,Y,Wheat,0.0,1657.31,Brian Patel
+2002.0,South Janethaven,Y,Canola,0.0,953.61,Jessica Ross
+2002.0,Lake Eric,N,Wheat,0.0,1489.73,Stephanie Raymond
+2002.0,Jesushaven,Y,Canola,0.0,1058.55,Michael Carlson
+2003.0,Jesushaven,Y,Wheat,0.0,1751.23,Catherine Porter
+2003.0,South Janethaven,Y,Canola,0.0,958.09,Jason Gardner
+2003.0,Lake Eric,N,Oats,0.0,1187.61,Stephanie Raymond
+2004.0,Lake Eric,N,Canola,0.0,787.36,Stephanie Raymond
+2004.0,Jesushaven,Y,Canola,0.0,1054.12,Debbie Chambers
+2004.0,South Janethaven,Y,Wheat,0.0,1670.37,Jason Gardner
+2005.0,South Janethaven,Y,Oats,0.0,1377.62,Jason Gardner
+2005.0,Lake Eric,N,Wheat,0.0,1484.34,Benjamin Kelly
+2005.0,Jesushaven,Y,Oats,0.0,1462.61,Laura Warner
+2006.0,South Janethaven,Y,Canola,0.0,962.88,Jason Gardner
+2006.0,Jesushaven,Y,Wheat,0.0,1754.47,Laura Warner
+2006.0,Lake Eric,N,Canola,0.0,783.81,Benjamin Kelly
+2007.0,South Janethaven,Y,Wheat,0.0,1690.51,Jason Gardner
+2007.0,Lake Eric,N,Oats,1.0,1182.28,Benjamin Kelly
+2007.0,Jesushaven,Y,Wheat,0.0,1761.47,Dylan Ortiz
+2008.0,Jesushaven,Y,Wheat,0.0,1763.66,Megan Garcia
+2008.0,Lake Eric,N,Wheat,1.0,1478.7,Benjamin Kelly
+2008.0,South Janethaven,Y,Canola,0.0,977.0,Charles Greene
+2009.0,Jesushaven,Y,Wheat,0.0,1767.79,Donna Smith
+2009.0,Lake Eric,N,Canola,1.0,781.64,Jerry Torres
+2009.0,South Janethaven,Y,Wheat,0.0,1680.56,Charles Greene
+2010.0,Jesushaven,Y,Oats,0.0,1460.3,Elizabeth Khan
+2010.0,Lake Eric,N,Oats,1.0,1183.66,Jerry Torres
+2010.0,South Janethaven,Yes,Oats,0.0,1387.65,Charles Greene
+,South Janethaven,Yes,Oats,0.0,1387.65,
+2011.0,Jesushaven,Y,Oats,0.0,1461.13,Elizabeth Khan
+2011.0,Lake Eric,N,Wheat,0.0,1477.52,Jerry Torres
+2011.0,South Janethaven,Y,Canola,0.0,979.6,Charles Greene
+2012.0,South Janethaven,Y,Wheat,0.0,1709.16,Kara Hill
+2012.0,Jesushaven,Y,Oats,0.0,1466.65,Elizabeth Khan
+2012.0,Lake Eric,N,Oats,1.0,1177.96,Jerry Torres
+2013.0,Lake Eric,N,Canola,1.0,780.53,Jonathan Williams
+2013.0,Jesushaven,Y,Wheat,0.0,1773.59,Andrew Carson
+2013.0,South Janethaven,Y,Wheat,0.0,1695.69,Frank Sloan
+2014.0,Jesushaven,Y,Wheat,0.0,1765.19,Andrew Carson
+2014.0,Lake Eric,N,Canola,1.0,775.22,Jonathan Williams
+2014.0,Lake Eric,,,1.0,775.22,Jonathan Williams
+2014.0,South Janethaven,Y,Wheat,0.0,1700.02,Michael Jimenez
+2015.0,Jesushaven,Y,Wheat,0.0,1770.18,Mallory Greene
+2015.0,Lake Eric,N,Wheat,1.0,1477.3,Jonathan Williams
+2015.0,South Janethaven,Y,Wheat,0.0,1701.71,Michael Jimenez
+2015.0,,Y,Wheat,0.0,1701.71,Michael Jimenez
+2016.0,South Janethaven,Y,Oats,0.0,1401.62,Michael Jimenez
+2016.0,Jesushaven,Y,Canola,0.0,1070.99,Alan Dickerson
+2016.0,Lake Eric,N,Wheat,1.0,1475.49,Jonathan Williams
+2017.0,South Janethaven,Y,Canola,0.0,1000.0,Theresa Jones
+2017.0,Lake Eric,N,Wheat,1.0,1475.6,Jonathan Williams
+2017.0,Jesushaven,Y,Canola,0.0,1068.05,Sharon Acosta
+2018.0,Jesushaven,Y,Canola,0.0,1073.92,Sharon Acosta
+2018.0,South Janethaven,Y,Canola,0.0,1000.1,Marilyn Watts
+2018.0,Lake Eric,N,Wheat,1.0,1474.38,Jonathan Williams
+2019.0,Lake Eric,no,Wheat,1.0,1470.2,Stephanie Vasquez
+2019.0,South Janethaven,Y,Oats,0.0,1403.78,Jose Jensen
+2019.0,Jesushaven,Yes,Oats,0.0,1468.55,Andrea Reilly

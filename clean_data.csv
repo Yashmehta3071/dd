@@ -1,0 +1,121 @@
+Year,Location,Avg Min Temp *C,Yr Rain mm,Heat Wave,Dry Spell,Cold Wave,Wet Spell,Irrigation,Crop Type,Crop Damage,Yield,Observer
+1980,South Janethaven,20.100000000000005,800.8696199999999,N,N,Y,N,Y,Canola,Y,913.34,Jeremy Mann
+1980,Jesushaven,22.9,684.10074,N,N,Y,N,Y,Canola,Y,1022.55,Joel Brown
+1980,Lake Eric,21.000000000000007,1153.61974,N,N,N,N,N,Oats,N,1196.8,Connor Griffith
+1981,South Janethaven,20.0,835.1316799999998,N,N,Y,N,Y,Canola,Y,906.17,Jennifer Adams
+1981,Jesushaven,23.400000000000002,639.4196,N,N,Y,N,Y,Wheat,Y,1735.82,Joel Brown
+1981,Lake Eric,20.799999999999997,1230.5411,N,N,N,N,N,Wheat,N,1497.96,Elizabeth Smith
+1982,South Janethaven,20.2,856.0892200000001,N,N,Y,N,Y,Canola,Y,917.47,Tina Lowe
+1982,Jesushaven,23.199999999999996,636.92024,N,N,Y,N,Y,Oats,Y,1431.4,Joel Brown
+1982,Lake Eric,21.2,1306.85032,N,N,N,N,N,Oats,N,1195.77,Robert Jones
+1983,South Janethaven,20.2,1021.0215799999999,N,N,Y,N,Y,Canola,Y,915.49,Zachary Martinez
+1983,Jesushaven,22.9,664.6697399999999,N,N,Y,N,Y,Oats,Y,1421.54,Daniel Orr
+1983,Lake Eric,21.4,1207.46012,N,N,N,N,N,Oats,N,1193.72,Robert Jones
+1984,South Janethaven,20.100000000000005,755.58142,N,N,Y,N,Y,Wheat,Y,1611.36,Zachary Martinez
+1984,Jesushaven,22.7,720.5802199999999,N,N,Y,N,Y,Wheat,Y,1716.79,Heather Sims
+1984,Lake Eric,21.4,1256.8808999999999,N,N,N,N,N,Canola,N,794.13,Robert Jones
+1985,Jesushaven,23.199999999999996,720.8012,N,N,Y,N,Y,Wheat,Y,1732.13,Amber Young
+1985,Lake Eric,21.5,1419.41042,N,N,N,N,N,Wheat,N,1493.45,Daniel Summers
+1985,South Janethaven,20.2,964.4913399999999,N,N,Y,N,Y,Wheat,Y,1616.42,Zachary Martinez
+1986,Lake Eric,21.2,1278.1102199999998,N,N,N,N,N,Wheat,N,1495.61,Daniel Summers
+1986,South Janethaven,20.4,915.1416800000001,N,N,Y,N,Y,Oats,Y,1324.48,Joshua Garner
+1986,Jesushaven,23.299999999999997,654.97964,N,N,Y,N,Y,Wheat,Y,1734.79,Holly Kline DDS
+1987,Lake Eric,21.3,1482.06,N,N,N,N,N,Canola,N,794.66,Daniel Summers
+1987,South Janethaven,20.3,946.64,N,N,Y,N,Y,Oats,Y,1323.2,James Johnson
+1987,Jesushaven,23.0,686.09,N,N,Y,N,Y,Canola,Y,1023.71,James Moreno
+1988,Lake Eric,21.1,1346.78,N,N,N,N,N,Oats,N,1196.33,Matthew Chen
+1988,South Janethaven,20.3,1017.0,N,N,Y,N,Y,Wheat,Y,1623.93,James Johnson
+1988,Jesushaven,23.6,807.9,N,N,N,N,Y,Oats,N,1442.87,Veronica Ayala
+1989,Lake Eric,21.4,1183.95,N,N,N,N,N,Oats,N,1194.01,Matthew Chen
+1989,South Janethaven,20.8,938.16,N,N,N,N,Y,Wheat,N,1642.56,James Johnson
+1989,Jesushaven,23.5,826.31,N,N,N,N,Y,Canola,N,1038.43,Veronica Ayala
+1990,Lake Eric,21.7,1435.25,N,N,N,N,N,Oats,N,1191.48,Matthew Chen
+1990,Jesushaven,23.4,799.03,N,N,N,N,Y,Canola,N,1035.61,Andrea Young
+1990,South Janethaven,20.7,1063.17,N,N,N,N,Y,Canola,N,940.42,Olivia Jones
+1991,Jesushaven,23.9,790.66,N,N,N,N,Y,Wheat,N,1749.49,Andrea Young
+1991,Lake Eric,21.4,1395.8,N,N,N,N,N,Wheat,N,1493.72,Jason Williams
+1991,South Janethaven,20.7,1032.08,N,N,N,N,Y,Canola,N,940.28,Robert Gregory
+1992,Jesushaven,23.3,748.65,N,N,Y,N,Y,Canola,Y,1034.09,Andrea Young
+1992,Lake Eric,21.5,1488.71,N,N,N,N,N,Wheat,N,1492.87,Nathan Hill
+1992,South Janethaven,20.5,934.64,N,N,Y,N,Y,Wheat,Y,1630.24,Robert Gregory
+1993,Jesushaven,23.9,810.34,N,N,N,N,Y,Oats,N,1448.47,Brooke Foster
+1993,Lake Eric,21.5,1285.51,N,N,N,N,N,Oats,N,1193.45,Nathan Hill
+1993,South Janethaven,20.6,961.96,N,N,N,N,Y,Oats,N,1334.1,Ann Gillespie
+1994,Jesushaven,24.0,791.51,Y,Y,N,N,Y,Canola,N,1052.3,Brooke Foster
+1994,Lake Eric,21.6,1511.28,N,N,N,N,N,Canola,N,792.63,Nathan Hill
+1994,South Janethaven,20.7,1038.37,N,N,N,N,Y,Wheat,N,1641.37,Michael Park
+1995,Jesushaven,23.4,785.36,N,N,N,N,Y,Wheat,N,1737.03,Leah Medina
+1995,Lake Eric,22.0,1572.9,N,N,N,N,N,Canola,N,788.49,Nathan Hill
+1995,South Janethaven,20.8,1252.89,N,N,N,Y,Y,Canola,N,944.07,Michael Park
+1996,South Janethaven,20.7,1147.96,N,N,N,N,Y,Oats,N,1341.09,Michael Park
+1996,Jesushaven,23.6,885.44,N,N,Y,Y,Y,Oats,Y,1442.57,Sandra Carr
+1996,Lake Eric,22.0,1706.17,Y,N,N,Y,N,Canola,N,787.73,Fernando Smith
+1997,South Janethaven,21.1,1190.96,N,Y,N,N,Y,Oats,N,1357.49,Dr. Jacob Thomas MD
+1997,Jesushaven,24.2,862.0,Y,N,N,Y,Y,Wheat,N,1756.38,Allison Johnson
+1997,Lake Eric,21.6,1688.45,N,N,N,Y,N,Wheat,N,1491.95,Fernando Smith
+1998,South Janethaven,21.5,1139.7,Y,Y,N,N,Y,Canola,N,973.28,Dr. Jacob Thomas MD
+1998,Jesushaven,24.1,865.91,N,N,N,Y,Y,Wheat,N,1753.86,Michael Carlson
+1998,Lake Eric,21.9,1529.2,N,N,N,N,N,Oats,N,1189.5,Fernando Smith
+1999,Jesushaven,23.7,769.11,N,N,N,N,Y,Oats,N,1444.54,Michael Carlson
+1999,Lake Eric,22.2,1611.12,N,N,N,Y,N,Oats,Y,1185.04,Derrick Wells
+1999,South Janethaven,21.0,1276.83,N,N,N,Y,Y,Wheat,N,1654.82,Justin Solomon
+2000,Lake Eric,22.0,1556.08,Y,Y,N,N,N,Wheat,N,1487.99,David Sullivan
+2000,Jesushaven,23.9,854.42,N,N,N,N,Y,Oats,N,1450.11,Michael Carlson
+2000,South Janethaven,21.1,1364.5,Y,N,N,Y,Y,Wheat,N,1658.01,Scott Peterson
+2001,Lake Eric,21.9,1584.31,N,N,N,Y,N,Oats,N,1188.94,David Sullivan
+2001,Jesushaven,23.9,850.26,N,N,N,N,Y,Canola,N,1049.72,Michael Carlson
+2001,South Janethaven,21.1,1274.86,N,N,N,Y,Y,Wheat,N,1657.31,Brian Patel
+2002,South Janethaven,21.0,1285.19,N,N,N,Y,Y,Canola,N,953.61,Jessica Ross
+2002,Lake Eric,21.9,1722.95,N,N,N,Y,N,Wheat,N,1489.73,Stephanie Raymond
+2002,Jesushaven,24.3,878.29,Y,N,N,Y,Y,Canola,N,1058.55,Michael Carlson
+2003,Jesushaven,24.0,861.66,N,N,N,N,Y,Wheat,N,1751.23,Catherine Porter
+2003,South Janethaven,21.1,1358.3,Y,N,N,Y,Y,Canola,N,958.09,Jason Gardner
+2003,Lake Eric,22.0,1674.75,N,N,N,Y,N,Oats,N,1187.61,Stephanie Raymond
+2004,Lake Eric,22.1,1568.58,N,Y,N,N,N,Canola,N,787.36,Stephanie Raymond
+2004,Jesushaven,24.1,1048.19,Y,N,N,Y,Y,Canola,N,1054.12,Debbie Chambers
+2004,South Janethaven,21.4,1373.47,Y,N,N,Y,Y,Wheat,N,1670.37,Jason Gardner
+2005,South Janethaven,21.6,1274.38,Y,N,N,Y,Y,Oats,N,1377.62,Jason Gardner
+2005,Lake Eric,22.3,1497.4,N,Y,N,N,N,Wheat,N,1484.34,Benjamin Kelly
+2005,Jesushaven,24.5,1102.69,Y,N,N,Y,Y,Oats,N,1462.61,Laura Warner
+2006,South Janethaven,21.2,1230.24,Y,Y,N,N,Y,Canola,N,962.88,Jason Gardner
+2006,Jesushaven,24.1,937.63,Y,N,N,Y,Y,Wheat,N,1754.47,Laura Warner
+2006,Lake Eric,22.3,1599.73,N,N,N,Y,N,Canola,N,783.81,Benjamin Kelly
+2007,South Janethaven,22.0,1539.61,Y,N,N,Y,Y,Wheat,N,1690.51,Jason Gardner
+2007,Lake Eric,22.4,2074.11,N,N,N,Y,N,Oats,Y,1182.28,Benjamin Kelly
+2007,Jesushaven,24.4,1021.4,Y,N,N,Y,Y,Wheat,N,1761.47,Dylan Ortiz
+2008,Jesushaven,24.5,941.86,Y,N,N,Y,Y,Wheat,N,1763.66,Megan Garcia
+2008,Lake Eric,22.7,1818.73,N,N,N,Y,N,Wheat,Y,1478.7,Benjamin Kelly
+2008,South Janethaven,21.6,1252.01,Y,Y,N,N,Y,Canola,N,977.0,Charles Greene
+2009,Jesushaven,24.7,1053.8,Y,N,N,Y,Y,Wheat,N,1767.79,Donna Smith
+2009,Lake Eric,22.5,1683.79,N,N,N,Y,N,Canola,Y,781.64,Jerry Torres
+2009,South Janethaven,21.7,1475.87,Y,N,N,Y,Y,Wheat,N,1680.56,Charles Greene
+2010,Jesushaven,24.4,1065.0,Y,N,N,Y,Y,Oats,N,1460.3,Elizabeth Khan
+2010,Lake Eric,22.3,1760.22,N,N,N,Y,N,Oats,Y,1183.66,Jerry Torres
+2010,South Janethaven,21.9,1438.09,Y,N,N,Y,Y,Oats,N,1387.65,Charles Greene
+2011,Jesushaven,24.4,1134.25,Y,N,N,Y,Y,Oats,N,1461.13,Elizabeth Khan
+2011,Lake Eric,22.7,1724.02,N,N,N,Y,N,Wheat,N,1477.52,Jerry Torres
+2011,South Janethaven,21.7,1445.01,Y,N,N,Y,Y,Canola,N,979.6,Charles Greene
+2012,South Janethaven,22.5,1477.3,Y,N,N,Y,Y,Wheat,N,1709.16,Kara Hill
+2012,Jesushaven,24.7,1134.05,Y,N,N,Y,Y,Oats,N,1466.65,Elizabeth Khan
+2012,Lake Eric,22.7,1836.03,N,N,N,Y,N,Oats,Y,1177.96,Jerry Torres
+2013,Lake Eric,22.5,1990.17,N,N,N,Y,N,Canola,Y,780.53,Jonathan Williams
+2013,Jesushaven,25.0,1053.65,Y,N,N,Y,Y,Wheat,N,1773.59,Andrew Carson
+2013,South Janethaven,22.1,1456.96,Y,N,N,Y,Y,Wheat,N,1695.69,Frank Sloan
+2014,Jesushaven,24.6,1060.74,Y,N,N,Y,Y,Wheat,N,1765.19,Andrew Carson
+2014,Lake Eric,22.9,1802.49,N,N,N,Y,N,Canola,Y,775.22,Jonathan Williams
+2014,South Janethaven,22.2,1573.99,Y,N,N,Y,Y,Wheat,N,1700.02,Michael Jimenez
+2015,Jesushaven,24.8,1130.01,Y,N,N,Y,Y,Wheat,N,1770.18,Mallory Greene
+2015,Lake Eric,22.8,1933.85,N,N,N,Y,N,Wheat,Y,1477.3,Jonathan Williams
+2015,South Janethaven,22.3,1505.43,Y,N,N,Y,Y,Wheat,N,1701.71,Michael Jimenez
+2016,South Janethaven,22.3,1536.09,Y,N,N,Y,Y,Oats,N,1401.62,Michael Jimenez
+2016,Jesushaven,24.9,1191.19,Y,N,N,Y,Y,Canola,N,1070.99,Alan Dickerson
+2016,Lake Eric,22.9,1793.15,N,N,N,Y,N,Wheat,Y,1475.49,Jonathan Williams
+2017,South Janethaven,22.2,1576.95,Y,N,N,Y,Y,Canola,N,1000.0,Theresa Jones
+2017,Lake Eric,22.9,2096.54,N,N,N,Y,N,Wheat,Y,1475.6,Jonathan Williams
+2017,Jesushaven,24.7,1175.37,Y,N,N,Y,Y,Canola,N,1068.05,Sharon Acosta
+2018,Jesushaven,25.1,1063.31,Y,N,N,Y,Y,Canola,N,1073.92,Sharon Acosta
+2018,South Janethaven,22.2,1633.91,Y,N,N,Y,Y,Canola,N,1000.1,Marilyn Watts
+2018,Lake Eric,22.9,1954.25,N,N,N,Y,N,Wheat,Y,1474.38,Jonathan Williams
+2019,Lake Eric,23.2,1869.38,N,N,N,Y,N,Wheat,Y,1470.2,Stephanie Vasquez
+2019,South Janethaven,22.3,1580.12,Y,N,N,Y,Y,Oats,N,1403.78,Jose Jensen
+2019,Jesushaven,24.8,1306.58,Y,N,N,Y,Y,Oats,N,1468.55,Andrea Reilly

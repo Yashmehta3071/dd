@@ -1,0 +1,100 @@
+Year,Location,Avg Min Temp *C,Yr Rain mm,Heat Wave,Dry Spell,Cold Wave,Wet Spell
+1987,Lake Eric,21.3,1482.06,N,N,N,N
+1987,South Janethaven,20.3,946.64,N,No,Y,N
+1987,Jesushaven,23.0,686.09,N,N,Y,N
+1988,Lake Eric,21.1,1346.78,N,N,N,N
+1988,South Janethaven,20.3,1017.0,N,N,Y,N
+1988,Jesushaven,23.6,807.9,N,N,N,n
+1989,Lake Eric,21.4,1183.95,N,N,N,N
+1989,South Janethaven,20.8,938.16,N,N,N,n
+1989,Jesushaven,23.5,826.31,N,N,N,N
+1990,Lake Eric,21.7,1435.25,N,N,N,N
+1990,Jesushaven,23.4,799.03,N,N,N,N
+1990,South Janethaven,20.7,1063.17,N,N,N,N
+1991,Jesushaven,23.9,790.66,N,N,N,N
+1991,Lake Eric,21.4,1395.8,N,N,N,N
+1991,South Janethaven,20.7,1032.08,N,N,N,N
+1992,Jesushaven,23.3,748.65,N,N,Y,N
+1992,Lake Eric,21.5,1488.71,N,N,N,N
+1992,South Janethaven,20.5,934.64,N,N,Y,N
+1993,Jesushaven,23.9,810.34,N,N,N,N
+1993,Lake Eric,21.5,1285.51,N,N,N,N
+1993,South Janethaven,20.6,961.96,N,N,N,N
+1994,Jesushaven,24.0,791.51,Y,Y,N,N
+1994,Lake Eric,21.6,1511.28,N,N,N,N
+1994,South Janethaven,20.7,1038.37,N,N,N,N
+1995,Jesushaven,23.4,785.36,N,N,N,N
+1995,Lake Eric,22.0,1572.9,N,N,N,N
+1995,South Janethaven,20.8,1252.89,N,N,N,Y
+1996,South Janethaven,20.7,1147.96,N,N,N,N
+1996,Jesushaven,23.6,885.44,N,N,Y,Y
+1996,Lake Eric,22.0,1706.17,Y,N,N,Y
+1997,South Janethaven,21.1,1190.96,N,Y,N,N
+1997,Jesushaven,24.2,862.0,Y,N,N,Y
+1997,Lake Eric,21.6,1688.45,N,N,N,Y
+1998,South Janethaven,21.5,1139.7,Y,Y,N,N
+1998,Jesushaven,24.1,865.91,N,N,N,Y
+1998,Lake Eric,21.9,1529.2,N,N,N,N
+1999,Jesushaven,23.7,769.11,N,N,N,N
+1999,Lake Eric,22.2,1611.12,N,N,N,Y
+1999,South Janethaven,21.0,1276.83,no,N,N,Y
+2000,Lake Eric,22.0,1556.08,Y,Y,N,N
+2000,Jesushaven,23.9,854.42,N,N,N,N
+2000,South Janethaven,21.1,1364.5,Y,N,N,Y
+2001,Lake Eric,21.9,1584.31,N,N,N,Y
+2001,Jesushaven,23.9,850.26,N,N,N,N
+2001,South Janethaven,21.1,1274.86,N,N,N,Y
+2002,South Janethaven,21.0,1285.19,N,N,N,Y
+2002,Lake Eric,21.9,1722.95,N,N,N,Y
+2002,Jesushaven,24.3,878.29,Y,N,N,Y
+2003,Jesushaven,24.0,861.66,N,N,N,N
+2003,South Janethaven,21.1,1358.3,Y,N,N,Y
+2003,Lake Eric,22.0,1674.75,N,N,N,Y
+2004,Lake Eric,22.1,1568.58,N,Y,N,N
+2004,Jesushaven,24.1,1048.19,Y,N,N,Y
+2004,South Janethaven,21.4,1373.47,Y,N,N,Y
+2005,South Janethaven,21.6,1274.38,Y,N,N,Y
+2005,Lake Eric,22.3,1497.4,N,Y,N,N
+2005,Jesushaven,24.5,1102.69,Y,N,N,Y
+2006,South Janethaven,21.2,1230.24,Y,Y,N,N
+2006,Jesushaven,24.1,937.63,Y,N,N,Y
+2006,Lake Eric,22.3,1599.73,N,N,N,Y
+2007,South Janethaven,22.0,1539.61,Y,N,N,Y
+2007,Lake Eric,22.4,2074.11,N,N,N,Yes
+2007,Jesushaven,24.4,1021.4,yes,N,N,Y
+2008,Jesushaven,24.5,941.86,Y,N,N,Y
+2008,Lake Eric,22.7,1818.73,N,N,N,Yes
+2008,South Janethaven,21.6,1252.01,Y,Y,N,N
+2009,Jesushaven,24.7,1053.8,Y,N,N,Y
+2009,Lake Eric,22.5,1683.79,N,N,N,Y
+2009,South Janethaven,21.7,1475.87,1,N,N,Y
+2010,Jesushaven,24.4,1065.0,Y,N,N,Y
+2010,Lake Eric,22.3,1760.22,N,N,N,Y
+2010,South Janethaven,21.9,1438.09,Y,N,N,Y
+2011,Jesushaven,24.4,1134.25,Y,N,N,Y
+2011,Lake Eric,22.7,1724.02,N,N,N,Y
+2011,South Janethaven,21.7,1445.01,Y,N,N,Y
+2012,South Janethaven,22.5,1477.3,Y,N,N,Y
+2012,Jesushaven,24.7,1134.05,Y,N,N,Y
+2012,Lake Eric,22.7,1836.03,N,No,N,Y
+2013,Lake Eric,22.5,1990.17,N,N,N,Y
+2013,Jesushaven,25.0,1053.65,Y,N,N,Y
+2013,South Janethaven,22.1,1456.96,Y,N,N,Y
+2014,Jesushaven,24.6,1060.74,Y,N,N,Y
+2014,Lake Eric,22.9,1802.49,N,N,N,Y
+2014,South Janethaven,22.2,1573.99,Y,N,N,1
+2015,Jesushaven,24.8,1130.01,Y,N,N,Y
+2015,Lake Eric,22.8,1933.85,N,N,N,Y
+2015,South Janethaven,22.3,1505.43,Y,N,N,Y
+2016,South Janethaven,22.3,1536.09,Y,N,n,Y
+2016,Jesushaven,24.9,1191.19,Y,N,N,Y
+2016,Lake Eric,22.9,1793.15,0,N,N,Y
+2017,South Janethaven,22.2,1576.95,Y,N,N,Y
+2017,Lake Eric,22.9,2096.54,N,N,N,Y
+2017,Jesushaven,24.7,1175.37,Y,N,N,Y
+2018,Jesushaven,25.1,1063.31,Y,N,N,Y
+2018,South Janethaven,22.2,1633.91,Y,N,N,Y
+2018,Lake Eric,22.9,1954.25,N,N,N,y
+2019,Lake Eric,23.2,1869.38,N,N,N,Y
+2019,South Janethaven,22.3,1580.12,Y,N,N,Y
+2019,Jesushaven,24.8,1306.58,Y,N,N,Y
